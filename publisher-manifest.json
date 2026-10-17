@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "a857996dedfdbc04d76c8616",
+  "owner": "tpgkwnxj3",
+  "repo": "page-c8b31d0079e14fc718e0a85e",
+  "title": "VIVIAN",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "c8b31d0079e14fc718e0a85e",
+      "a": "VIVIAN",
+      "b": "",
+      "entity": "VIVIAN",
+      "brand": "VIVIAN",
+      "separator": "",
+      "path": "index.html",
+      "hash": "ad3c042cfd2ae507ef08ef2e30fc132169a618260e2b6ded4e177dd14a096ed5",
+      "content": {
+        "keyword1": "VIVIAN",
+        "keyword2": "",
+        "primary_entity": "VIVIAN",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "VIVIAN 把订阅这件事做得简单明白：基础版、旗舰版、团队版三档套餐明码标价，开通后跟着图文指引配置设备，常见问题一次说清楚。",
+          "AI_DESCRIPTION": "VIVIAN 把订阅这件事做得简单明白：基础版、旗舰版、团队版三档套餐明码标价，开通后跟着图文指引配置设备，常见问题一次说清楚。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n*{box-sizing:border-box;margin:0;padding:0}\n:root{--orange:#ff5a00;--deep:#e04a00;--ink:#161310;--tint:#fff2e9;--line:3px solid #161310}\nhtml{}\nbody{font-family:\"PingFang SC\",\"Microsoft YaHei\",\"Helvetica Neue\",Arial,system-ui,sans-serif;background:#ffffff;color:var(--ink);line-height:1.75}\n.rail{position:fixed;top:0;left:0;bottom:0;width:150px;background:#ffffff;border-right:var(--line);display:flex;flex-direction:column;align-items:center;padding:30px 0;z-index:10}\n.rail .brand{writing-mode:vertical-rl;font-weight:900;font-size:2rem;letter-spacing:.35em;color:var(--orange);text-decoration:none;line-height:1}\n.rail .links{margin-top:40px;display:flex;flex-direction:row;gap:20px}\n.rail .links a{writing-mode:vertical-rl;letter-spacing:.45em;text-decoration:none;color:var(--ink);font-size:.95rem;padding:8px 5px;border:2px solid transparent}\n.rail .links a:hover{border-color:var(--ink);background:var(--tint)}\n.page{margin-left:150px}\n.hero{border-bottom:var(--line)}\n.band{padding:34px clamp(20px,6vw,72px);border-bottom:var(--line)}\n.band:last-child{border-bottom:none}\n.band-hello{background:#ffffff}\n.band-hello p{font-size:1.05rem;font-weight:700}\n.band-hello .dot{color:var(--orange)}\n.band-name{background:var(--orange);color:#ffffff;padding-top:20px;padding-bottom:26px;overflow:hidden}\n.band-name h1{font-size:clamp(3.4rem,15vw,11.5rem);font-weight:900;line-height:.95;letter-spacing:-.02em;text-align:center}\n.band-tag{background:var(--ink);color:#ffffff}\n.band-tag p{font-size:clamp(1.05rem,2.4vw,1.4rem);font-weight:700;max-width:46em}\n.band-tag .hl{color:var(--orange)}\n.band-intro{background:var(--tint)}\n.band-intro p{max-width:44em;font-size:1.02rem}\n.hero-cta{margin-top:22px;display:flex;gap:18px;flex-wrap:wrap}\n.btn{display:inline-block;border:var(--line);padding:12px 24px;font-weight:800;text-decoration:none;color:var(--ink);background:#ffffff;font-size:1rem}\n.btn-solid{background:var(--orange);color:#ffffff;box-shadow:6px 6px 0 var(--ink)}\n.btn-line{background:#ffffff;box-shadow:6px 6px 0 var(--orange)}\n.btn-solid:hover{background:var(--deep)}\n.btn-line:hover{background:var(--tint)}\nmain section{padding:64px clamp(20px,6vw,72px);border-bottom:var(--line)}\n.kicker{display:inline-block;background:var(--ink);color:#ffffff;font-size:.8rem;font-weight:700;letter-spacing:.2em;padding:4px 12px;margin-bottom:16px}\nh2{font-size:clamp(1.6rem,4vw,2.4rem);font-weight:900;line-height:1.25;margin-bottom:14px}\nh2 .accent{color:var(--orange)}\n.lead{max-width:46em;margin-bottom:30px}\n.table-wrap{overflow-x:auto;border:var(--line);box-shadow:8px 8px 0 var(--tint)}\ntable{width:100%;min-width:720px;border-collapse:collapse;background:#ffffff}\nth,td{border:2px solid var(--ink);padding:14px 16px;text-align:left;vertical-align:top;font-size:.98rem}\nthead th{background:var(--ink);color:#ffffff;font-size:1.05rem;white-space:nowrap}\nthead th.hot{background:var(--orange)}\ntd.hot{background:var(--tint)}\ntbody th{background:#ffffff;font-weight:800;white-space:nowrap}\n.hot-tag{display:inline-block;background:#ffffff;color:var(--orange);font-size:.72rem;font-weight:800;padding:2px 8px;margin-left:8px;vertical-align:middle}\ntd ul{list-style:none}\ntd ul li{padding-left:1.1em;position:relative}\ntd ul li::before{content:\"\";position:absolute;left:0;top:.68em;width:.55em;height:.55em;background:var(--orange)}\n.price-row td{font-weight:900;font-size:1.15rem}\n.note{margin-top:18px;font-size:.95rem;max-width:46em}\n.note b{color:var(--orange)}\n.plan-cta{margin-top:26px;display:flex;gap:18px;flex-wrap:wrap}\n.steps{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:22px}\n.step{border:var(--line);background:#ffffff;padding:24px 22px;box-shadow:8px 8px 0 var(--tint)}\n.step .num{display:block;font-size:2.6rem;font-weight:900;color:var(--orange);line-height:1;margin-bottom:12px}\n.step h3{font-size:1.15rem;font-weight:800;margin-bottom:8px}\n.step p{font-size:.95rem}\n.client-box{border:var(--line);background:#ffffff;box-shadow:8px 8px 0 var(--orange);padding:28px 26px;max-width:56em}\n.client-box p{margin-bottom:14px}\n.client-box ul{list-style:none;margin:6px 0 18px}\n.client-box ul li{padding:8px 0 8px 1.4em;position:relative;border-bottom:2px dashed var(--ink)}\n.client-box ul li:last-child{border-bottom:none}\n.client-box ul li::before{content:\"\";position:absolute;left:0;top:1em;width:.7em;height:.7em;background:var(--orange)}\n.faq-grid{display:grid;grid-template-columns:1fr 1fr;gap:22px}\n.faq-grid article{border:var(--line);background:#ffffff;padding:22px;box-shadow:6px 6px 0 var(--tint)}\n.faq-grid h3{font-size:1.05rem;font-weight:800;margin-bottom:10px}\n.faq-grid h3 .q{color:var(--orange);margin-right:8px}\n.faq-grid p{font-size:.95rem}\nfooter{background:var(--ink);color:#ffffff;padding:42px clamp(20px,6vw,72px);display:flex;justify-content:space-between;align-items:flex-start;gap:20px;flex-wrap:wrap}\nfooter .f-brand{font-weight:900;font-size:1.6rem;color:var(--orange);letter-spacing:.1em}\nfooter nav{display:flex;gap:20px;flex-wrap:wrap}\nfooter a{color:#ffab7a;text-decoration:none;font-size:.95rem}\nfooter a:hover{color:#ffffff}\nfooter .copy{width:100%;font-size:.85rem;color:#cbbfb6;margin-top:8px}\n@media(max-width:860px){\n.rail{position:static;width:auto;border-right:none;border-bottom:var(--line);flex-direction:row;justify-content:space-between;align-items:center;padding:14px 18px;gap:12px;flex-wrap:wrap}\n.rail .brand{writing-mode:horizontal-tb;font-size:1.3rem;letter-spacing:.12em}\n.rail .links{margin-top:0;gap:8px;flex-wrap:wrap}\n.rail .links a{writing-mode:horizontal-tb;letter-spacing:.05em;font-size:.85rem;border:2px solid var(--ink);padding:4px 10px}\n.page{margin-left:0}\n}\n@media(max-width:760px){\n.faq-grid{grid-template-columns:1fr}\n}\n</style><nav class=\"rail\" aria-label=\"页面目录\">\n<a class=\"brand\" href=\"#top\">VIVIAN</a>\n<div class=\"links\">\n<a href=\"#plans\">套餐对比</a>\n<a href=\"#guide\">上手步骤</a>\n<a href=\"#clients\">客户端</a>\n<a href=\"#faq\">常见问题</a>\n</div>\n</nav>\n<div class=\"page\" id=\"top\">\n<header class=\"hero\">\n<div class=\"band band-hello\"><p>嘿，欢迎来到这里 <span class=\"dot\">●</span> 先别急着往下翻，给我们三十秒</p></div>\n<div class=\"band band-name\"><h1>VIVIAN</h1></div>\n<div class=\"band band-tag\"><p>订阅服务不用搞得神神秘秘。<span class=\"hl\">价格、流量、设备数</span>，我们全部摆在台面上给你看。</p></div>\n<div class=\"band band-intro\">\n<p>三档套餐，从一个人轻量使用到小团队一起用，都有对应的选择。选好之后跟着图文指引配置，第一次大概五分钟，之后就一劳永逸了。下面的对比表，建议先看。</p>\n<div class=\"hero-cta\">\n<a class=\"btn btn-solid\" href=\"#plans\">直接看套餐</a>\n<a class=\"btn btn-line\" href=\"#guide\">先看看怎么上手</a>\n</div>\n</div>\n</header>\n<main>\n<section id=\"plans\">\n<span class=\"kicker\">PLANS</span>\n<h2>三档套餐，<span class=\"accent\">明码标价</span></h2>\n<p class=\"lead\">我们把价格、流量、设备数都摊开在一张表里，方便你横着比。拿不准的话，从最多人选的旗舰版开始，基本不会错。</p>\n<div class=\"table-wrap\">\n<table>\n<thead>\n<tr><th>对比项</th><th>基础版</th><th class=\"hot\">旗舰版<span class=\"hot-tag\">最多人选</span></th><th>团队版</th></tr>\n</thead>\n<tbody>\n<tr class=\"price-row\"><th>月付</th><td>¥15 / 月</td><td class=\"hot\">¥35 / 月</td><td>¥85 / 月</td></tr>\n<tr><th>年付</th><td>¥150 / 年</td><td class=\"hot\">¥350 / 年</td><td>¥850 / 年</td></tr>\n<tr><th>每月流量</th><td>100GB 极速流量</td><td class=\"hot\">300GB 极速流量</td><td>1000GB 极速流量</td></tr>\n<tr><th>同时在线设备</th><td>3 台</td><td class=\"hot\">5 台</td><td>20 台</td></tr>\n<tr><th>套餐权益</th>\n<td><ul><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></td>\n<td class=\"hot\"><ul><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7×24 优先工单支持</li></ul></td>\n<td><ul><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></td>\n</tr>\n<tr><th>适合谁</th><td>一个人用，刷刷视频看看资讯</td><td class=\"hot\">追剧、游戏、多设备的主力选择</td><td>小团队或多设备家庭一起用</td></tr>\n</tbody>\n</table>\n</div>\n<p class=\"note\">帮你算笔小账：年付摊到每个月，基础版约 <b>¥12.5</b>、旗舰版约 <b>¥29.2</b>、团队版约 <b>¥70.8</b>，都比按月付便宜一截。打算长期用的话，年付更划算。</p>\n<div class=\"plan-cta\">\n<a class=\"btn btn-line\" href=\"#\">选基础版</a>\n<a class=\"btn btn-solid\" href=\"#\">选旗舰版</a>\n<a class=\"btn btn-line\" href=\"#\">选团队版</a>\n</div>\n</section>\n<section id=\"guide\">\n<span class=\"kicker\">GUIDE</span>\n<h2>上手只要<span class=\"accent\">四步</span>，别怕麻烦</h2>\n<p class=\"lead\">整个流程其实就是：挑套餐、开通、照着指引配置、开始使用。第一次跟着做大概五分钟，以后就不用再操心了。</p>\n<div class=\"steps\">\n<article class=\"step\">\n<span class=\"num\">01</span>\n<h3>挑一个适合你的套餐</h3>\n<p>对照上面的表格，主要看每月流量和设备数。别为用不到的权益多花钱，也别太委屈自己。</p>\n</article>\n<article class=\"step\">\n<span class=\"num\">02</span>\n<h3>注册并完成订阅</h3>\n<p>用你的常用邮箱注册账户，按页面提示完成所选套餐的订阅流程，几分钟就搞定。</p>\n</article>\n<article class=\"step\">\n<span class=\"num\">03</span>\n<h3>拿到配置指引</h3>\n<p>开通之后，账户里会提供对应设备的配置说明，每一步都有截图，照着点就行。</p>\n</article>\n<article class=\"step\">\n<span class=\"num\">04</span>\n<h3>开始使用</h3>\n<p>配置完成后打开开关就能用了。遇到问题先翻下面的常见问题，大多数情况自己就能解决。</p>\n</article>\n</div>\n</section>\n<section id=\"clients\">\n<span class=\"kicker\">CLIENTS</span>\n<h2>客户端与<span class=\"accent\">配置</span></h2>\n<p class=\"lead\">先跟你说句实话：这一页我们不会放来路不明的下载链接，那样反而不安全。</p>\n<div class=\"client-box\">\n<p>开通订阅后，你会在账户里拿到官方的配置说明和客户端获取方式。不管你用手机还是电脑，跟着图文步骤一步一步来就好，不需要任何技术背景。</p>\n<p><b>开通前，你只需要准备三样东西：</b></p>\n<ul>\n<li>一个常用邮箱——用来注册、收通知和找回密码</li>\n<li>一台你想先配置的设备——手机或电脑都可以</li>\n<li>大概五分钟的空闲时间——真的只要这么久</li>\n</ul>\n<p>如果配置过程中卡住了，先去下面的常见问题翻一翻；还解决不了，提个工单，会有人接着带你走完。</p>\n<a class=\"btn btn-solid\" href=\"#plans\">先去挑一个套餐</a>\n</div>\n</section>\n<section id=\"faq\">\n<span class=\"kicker\">FAQ</span>\n<h2>常见问题，<span class=\"accent\">一次说清楚</span></h2>\n<p class=\"lead\">这些都是大家问得最多的。看完如果还有疑问，别客气，提工单找我们。</p>\n<div class=\"faq-grid\">\n<article>\n<h3><span class=\"q\">Q</span>我完全不懂技术，能搞定配置吗？</h3>\n<p>放心，配置说明就是写给小白看的：每一步都配了截图和文字，照着点就行。真的卡住了，提个工单，会有人接着带你走完。</p>\n</article>\n<article>\n<h3><span class=\"q\">Q</span>月付和年付，选哪个更合适？</h3>\n<p>权益一模一样，区别只在价格。年付摊到每个月更便宜，比如基础版年付 ¥150，比按月付一年省下 ¥30。打算长期用，年付更划算。</p>\n</article>\n<article>\n<h3><span class=\"q\">Q</span>这个月流量用完了怎么办？</h3>\n<p>先用完就先省着点，下个计费周期流量会重新开始计算。如果每个月都紧巴巴的，建议直接升一档——旗舰版每月 300GB，会宽松不少。</p>\n</article>\n<article>\n<h3><span class=\"q\">Q</span>家里人能一起用吗？</h3>\n<p>看同时在线设备数：基础版 3 台，旗舰版 5 台，团队版 20 台。家里人多的话选旗舰版或团队版，大家各用各的，不用抢。</p>\n</article>\n<article>\n<h3><span class=\"q\">Q</span>用了一半想换套餐，可以吗？</h3>\n<p>可以的。登录账户后按页面提示操作就好，具体的变更规则以你订阅时看到的说明为准，有什么拿不准的先问我们。</p>\n</article>\n<article>\n<h3><span class=\"q\">Q</span>出了问题找谁？响应快吗？</h3>\n<p>先在本页的常见问题里翻一翻，大概率能解决；解决不了就提工单。旗舰版有 7×24 优先工单支持，团队版还配了专属客户经理。</p>\n</article>\n</div>\n</section>\n</main>\n<footer>\n<div>\n<div class=\"f-brand\">VIVIAN</div>\n<p>把订阅这件事，做得简单明白。</p>\n</div>\n<nav aria-label=\"页脚导航\">\n<a href=\"#plans\">套餐对比</a>\n<a href=\"#guide\">上手步骤</a>\n<a href=\"#clients\">客户端</a>\n<a href=\"#faq\">常见问题</a>\n<a href=\"#top\">回到顶部</a>\n</nav>\n<p class=\"copy\">© 2025 VIVIAN ｜ 本页价格与权益以订阅时页面展示为准</p>\n</footer>\n</div>",
+          "hash": "49d5c194aef7343b2285dc5faccc7ce487cfb652afa73948605210529e6146ad",
+          "seo": {
+            "title": "VIVIAN ｜ 三档套餐明码标价，挑一个适合你的",
+            "keywords": "VIVIAN,VIVIAN 套餐,VIVIAN 订阅,VIVIAN 使用说明,VIVIAN 常见问题",
+            "description": "VIVIAN 把订阅这件事做得简单明白：基础版、旗舰版、团队版三档套餐明码标价，开通后跟着图文指引配置设备，常见问题一次说清楚。"
+          },
+          "provider": "grok",
+          "model": "kimi-k3",
+          "design": {
+            "no": "4975",
+            "hero": "8 全宽色带分层堆叠",
+            "palette": "6 纯白配高饱和橙",
+            "nav": "2 左侧竖排目录",
+            "card": "2 粗描边直角",
+            "plans_view": "1 横向对比表格",
+            "faq_view": "1 双栏问答",
+            "tone": "2 亲切的朋友式口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "gzyabio.cn",
+    "host": "p-f9d2f9d33a.gzyabio.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "2f7cf7dd1ec59cefbfe32dd3fd836a5eaf9fecf57866d6e78770129652c73ff1",
+    "sitemap.xml": "3cb79d33305686ec63458592bcf5c8b602226da51be83267d8936b6ea64cfc57",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8e12f711d82596e9f85ff8dec7ae85509314b4c34b35f0114345165b2de94d49",
+    "robots.txt": "ff2c3cd3152aa7760ddc01d3eb781bc2aab1fc0426eebb5b8f016d5143205c36",
+    "d8e3dc14e53444c09216776f0eb85fac.txt": "95bad76398a6d85b72d49b759562c69853083bce575d3ec527339fc4c471621c"
+  },
+  "revision": "78ffec210ecfad92a58181765284aac502cd2823af940937cb38e58fa46d2946"
+}
